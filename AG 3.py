@@ -5,6 +5,8 @@ Created on Tue Sep 26 17:49:27 2023
 @author: Vinicius
 """
 
+# Algoritmo Genético Funcional
+
 import math
 import numpy as np
 from numpy import nan
